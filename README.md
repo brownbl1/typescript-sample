@@ -1,4 +1,4 @@
-`Index.d.ts` has the following:
+`index.d.ts` has the following:
 
 ```ts
 import * as DataLoader from 'dataloader'
